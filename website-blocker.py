@@ -5,9 +5,9 @@ hosts_temp=r"hosts"
 hosts_path=r"/etc/hosts"	#for windows use the path: C:\Windows\System32\drivers\etc
 redirect="127.0.0.1"
 website_list=[	"www.facebook.com",
-				"facebook.com",
-				"www.youtube.com",
-				"youtube.com"	]
+			"facebook.com",
+			"www.youtube.com",
+			"youtube.com"	]
 
 am = dt(dt.now().year,dt.now().month,dt.now().day,9)
 pm = dt(dt.now().year,dt.now().month,dt.now().day,17)
