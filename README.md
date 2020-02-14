@@ -1,2 +1,3 @@
 # website-blocker
-Website Blocker for Linux / MAC / Windows - by change the system host file
+Website Blocker for Linux / Mac / Windows
+ - by changing the system host file
